@@ -15,5 +15,6 @@
 - [High schools](https://www.data.gouv.fr/datasets/lycees-de-la-metropole-de-lyon-et-du-departement-du-rhone/)
 
 ## Link to unused DataBases 
-- [Délinquance (régionale et départementale)](https://www.data.gouv.fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/)
-- [Fiscalités locales des particuliers](https://www.data.gouv.fr/datasets/fiscalite-locale-des-particuliers-geo/)
+- [Colleges](https://www.data.gouv.fr/datasets/etablissements-denseignement-superieur-de-la-metropole-de-lyon/)
+- [Crimes (regional & departmental)](https://www.data.gouv.fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/)
+- [Local taxation for individuals](https://www.data.gouv.fr/datasets/fiscalite-locale-des-particuliers-geo/)
