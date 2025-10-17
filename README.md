@@ -1,5 +1,14 @@
 # Property Assistance in Lyon
 
+## Persona 
+Individuals, more specifically typical families with two to four children. They are looking for stability with a new property and an investment with added value. In terms of requirements, they need:
+- city centre or suburbs
+- at least four rooms
+- close to schools
+- safe neighbourhood
+- close to transportations
+- with long-term return on investment
+
 ## Authors 
 - [Ethan](https://github.com/Sirteabagg)
 - [Nicolas](https://github.com/Nicolas-cottez)
