@@ -19,7 +19,8 @@ Individuals, more specifically typical families with two to four children. They 
 
 ## Library to install
 
--
+- folium
+- ipywidgets
 
 ## Link to used DataBases
 
@@ -31,6 +32,7 @@ Individuals, more specifically typical families with two to four children. They 
 - [Middle schools](https://www.data.gouv.fr/datasets/secteurs-des-colleges-de-la-metropole-de-lyon/)
 - [High schools](https://www.data.gouv.fr/datasets/lycees-de-la-metropole-de-lyon-et-du-departement-du-rhone/)
 - [Transports](https://www.data.gouv.fr/datasets/points-darret-du-reseau-transports-en-commun-lyonnais/) rename it as "transports.csv" to avoids issues
+- [Code Insee](https://www.data.gouv.fr/datasets/base-officielle-des-codes-postaux/) rename it as "code_insee_to_postal.csv"
 
 ## Link to unused DataBases
 
