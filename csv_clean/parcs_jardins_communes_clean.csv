@@ -1,0 +1,628 @@
+adresse,commune,surface_m2,aire_jeu,eau,toilettes,code_insee,longitude,latitude
+1 Rue Edouard Millaud,Saint-Genis-Laval,36358.95,False,True,True,69204,4.786552,45.69293704090367
+2 130 Avenue Georges Clemenceau,Saint-Genis-Laval,4506.04,False,False,False,69204,4.792575,45.69654604090331
+5110 Place des Minimes,Lyon 5e Arrondissement,3334.82,False,True,False,69385,4.821792696554102,45.758162063601254
+6073 Rue Tête d'Or,Lyon 6e Arrondissement,2094.41,True,True,False,69386,4.8520253928748955,45.76637067128756
+8138 7 Rue du Presbytere,Lyon 8e Arrondissement,1330.87,True,False,False,69388,4.8519639134066805,45.73528218546963
+7105 390 Rue Garibaldi,Lyon 7e Arrondissement,2037.58,True,False,False,69387,4.846837066277471,45.74433417665567
+6049 147 Rue de Créqui,Lyon 6e Arrondissement,2642.52,False,False,False,69386,4.847662857999001,45.76420301363675
+8 10 Boulevard De Lattre de Tassigny,Rillieux-la-Pape,10804.0,True,True,True,69286,4.90440761928713,45.81202846678802
+56130 2 Rue Barème,Lyon 6e Arrondissement,,False,False,False,69386,4.842589066329906,45.77418265256713
+40 33 Rue Armand,Villeurbanne,3423.62539558,True,True,False,69266,4.886611987507322,45.77980299705135
+96 20 Rue Valentin Haüy,Villeurbanne,6215.48539433,True,True,False,69266,4.883571325499209,45.758613054467226
+88 85 Rue Anatole France,Villeurbanne,4299.03682266,True,False,False,69266,4.877137096411948,45.7685472874983
+39 119 Rue Anatole France,Villeurbanne,1521.04208196,False,False,False,69266,4.881793590304149,45.76863093995153
+98 61 Rue Château Gaillard,Villeurbanne,5637.92951374,True,True,False,69266,4.8869748737846574,45.77685407219979
+9185 Rue Jean Fournier,Lyon 9e Arrondissement,2274.72,True,False,False,69389,4.7946534538348295,45.7793882094839
+3127 Rue d'Aubigny,Lyon 3e Arrondissement,718.46,True,True,False,69383,4.863071448488966,45.76148040833763
+2 Rue Condorcet,Vaulx-en-Velin,10693.0,True,False,True,69256,4.917370665399331,45.77779532319397
+181 45 Rue Edouard Vaillant,Villeurbanne,553.1001499,True,True,False,69266,4.880264958951454,45.77565116009068
+53315 Place Djibraël Bahadourian,Lyon 3e Arrondissement,6282.21,True,True,True,69383,4.8451893942257245,45.75751876895814
+7280 57 avenue Leclerc,Lyon 7e Arrondissement,1213.08,False,False,False,69387,4.824170800389541,45.73464049388658
+180 132 Rue des Bienvenus,Villeurbanne,365.93432899,True,False,False,69266,4.884028681694316,45.7763328784923
+187 11 Rue Château Gaillard,Villeurbanne,3053.86630014,True,True,False,69266,4.8836459645795225,45.77927979593149
+194 Rue Francis de Pressensé,Villeurbanne,1955.6250002,False,False,False,69266,4.88925320088037,45.7697965374962
+1054 27 rue Pierre Dupont,Lyon 1er Arrondissement,15747.35,True,True,False,69381,4.820685511544825,45.7712945504882
+51052 Place des Chartreux,Lyon 1er Arrondissement,710.0,True,False,False,69381,4.82167928272507,45.77071271614104
+3034 16 Avenue des Acacias,Lyon 3e Arrondissement,30921.01,True,True,True,69383,4.881680155125889,45.75161986330029
+195 Rue Prisca,Villeurbanne,2824.37697884,True,True,False,69266,4.880658737454365,45.78072955516999
+207 212 Rue Francis de Pressensé,Villeurbanne,271.50513599,False,False,False,69266,4.8883266095370725,45.77054499505955
+212 132 Rue Louis Becker,Villeurbanne,2510.8064956,True,True,False,69266,4.876085547819209,45.765198246666
+369 63 Rue Henri Legay,Villeurbanne,610.36172814,False,True,False,69266,4.916554436500516,45.75462055178995
+379 Avenue Antoine Dutrievoz,Villeurbanne,17944.6501599,True,True,False,69266,4.8634000564677615,45.77427538832792
+381 3 Rue Etienne Gagnaire,Villeurbanne,8728.19182296,True,True,False,69266,4.865356873136479,45.77372716432044
+382 83 Rue Pierre Voyant,Villeurbanne,25251.1796403,True,True,False,69266,4.900389984785486,45.76870682043017
+384 Boulevard du 11 Novembre 1918,Villeurbanne,11362.2355212,True,True,False,69266,4.8646849287332605,45.78028661503809
+385 2 Rue de la Pouponnière,Villeurbanne,2624.77995914,True,False,False,69266,4.894319179718572,45.75480232413469
+386 192 Rue du 4 Août 1789,Villeurbanne,1202.99488941,True,True,False,69266,4.8929625114686495,45.76459083228719
+387 1 Rue Bernard Lecache,Villeurbanne,2957.21819988,True,False,False,69266,4.9099719185315065,45.76503461204953
+388 51 Rue Dedieu,Villeurbanne,237.29865007,True,False,False,69266,4.867622963152689,45.76968649368559
+392 2 Rue Marcel Doret,Villeurbanne,423.15891461,True,False,False,69266,4.912509962605392,45.755244352141865
+389 251 Cours Emile Zola,Villeurbanne,2332.03309606,True,True,False,69266,4.888456494034781,45.76957072983312
+390 10 Avenue Condorcet,Villeurbanne,1769.12265869,False,True,False,69266,4.865942822430461,45.777882521793735
+391 36 Rue Viret,Villeurbanne,408.27681272,True,False,False,69266,4.875273621298107,45.77227362593303
+7134 98 Rue Jean Vallier,Lyon 7e Arrondissement,4881.78,True,True,False,69387,4.836489663631474,45.73159895588698
+2247 Quai Rambaud,Lyon 2e Arrondissement,9718.57,False,True,False,69382,4.815609222088793,45.744692094477955
+7115 18 Rue du Beguin,Lyon 7e Arrondissement,3428.09,True,True,True,69387,4.850031927725222,45.74769168563668
+3097 105 Rue Baraban,Lyon 3e Arrondissement,4830.63,True,True,True,69383,4.868773946027973,45.75797622492945
+4040 25 Rue Chazière,Lyon 4e Arrondissement,45862.53,True,True,True,69384,4.815035745817817,45.77446105237349
+57 Rue Jeanne Morel,Vaulx-en-Velin,146.0,True,False,False,69256,4.925801509642756,45.785354137441324
+9 5059 Route de Strasbourg,Rillieux-la-Pape,83921.0,False,False,False,69286,4.911450985289135,45.83579892813327
+3388 57 Rue Feuillat,Lyon 3e Arrondissement,8731.22,True,True,True,69383,4.876499630221146,45.7483659624958
+3335 Allée du parc,Lyon 3e Arrondissement,10114.47,True,True,False,69383,4.857787893754962,45.75195416387789
+9007 143 bis Avenue Sidoine Apollinaire,Lyon 9e Arrondissement,6519.42,True,False,False,69389,4.8034728745396045,45.76396202192306
+3016 37 Rue Jules Massenet,Lyon 3e Arrondissement,10201.92,False,False,False,69383,4.892212696572018,45.74820942679543
+3133 2 Rue Chambovet,Lyon 3e Arrondissement,48256.87,True,True,True,69383,4.895453832773859,45.746933211867415
+39 Rue des Verchères,Vaulx-en-Velin,3604.0,True,False,False,69256,4.926524055010991,45.78036886793501
+40 Square André Malraux,Vaulx-en-Velin,2706.0,True,True,False,69256,4.9226664476991555,45.777557731037334
+37 Avenue des Canuts/Avenue Bataillon Carmagole Liber,Vaulx-en-Velin,13828.0,True,True,True,69256,4.924917813056809,45.76154659888337
+38 Allée des Marronniers,Vaulx-en-Velin,1037.0,True,True,False,69256,4.927150381918244,45.78652051157946
+57222 Rue Maurice Carraz,Lyon 7e Arrondissement,3408.98,False,True,False,69387,4.823784265565271,45.72787539514527
+56022 Place d'Helvétie,Lyon 6e Arrondissement,2183.86,True,True,False,69386,4.841847971057388,45.77355639497349
+58191 Rue Thomas Blanchet,Lyon 8e Arrondissement,1359.3,False,False,False,69388,4.884512090016209,45.73775781191103
+13 Place de la Nation,Vaulx-en-Velin,2782.0,False,True,True,69256,4.922726173505382,45.77790280990054
+214 62 Avenue Roger Salengro,Villeurbanne,3408.44248917,True,True,False,69266,4.874090263140149,45.77641561388626
+9062 Place Maurice Bariod,Lyon 9e Arrondissement,5021.23,True,False,False,69389,4.8258818607932135,45.802863653332665
+1045 8 Place Lieutenant Morel,Lyon 1er Arrondissement,1176.94,False,True,False,69381,4.825825259706054,45.771625484826046
+9252 Rue Robert Wolville,Lyon 9e Arrondissement,7795.72,True,False,False,69389,4.789909169465751,45.78719514569414
+9035 15 Grande Rue de Saint Rambert,Lyon 9e Arrondissement,4419.98,False,False,False,69389,4.8316287347320115,45.79901207551559
+3 Avenue Roger Salengro,Vaulx-en-Velin,4373.0,True,False,False,69256,4.926500465137203,45.75700186128365
+8 Rue Franklin,Vaulx-en-Velin,4361.0,True,True,False,69256,4.927568592145444,45.78670197809253
+3 77 Rue Château Gaillard,Villeurbanne,7444.92379429,False,False,False,69266,4.889732017479016,45.77564906400936
+377 16 Rue Docteur Ollier,Villeurbanne,81.6120044,False,False,False,69266,4.882556066381948,45.76781474411869
+5129 Chemin vert,Lyon 5e Arrondissement,43395.73,False,False,False,69385,4.7952625431093265,45.761951281485054
+9146 17 Rue Nérard,Lyon 9e Arrondissement,474.88,True,True,False,69389,4.803822848241283,45.77683806276217
+9038 5 Place Henri Barbusse,Lyon 9e Arrondissement,16502.69,True,True,True,69389,4.8298998645651645,45.79842381614596
+29 Rue de la Barse,Rillieux-la-Pape,6665.0,True,False,False,69286,4.895241775263503,45.82495021619883
+11 56 Rue Du 1 Mars 1943,Villeurbanne,17603.2378671,True,True,False,69266,4.8880033731669625,45.76563905659237
+13 118 Cours Tolstoï,Villeurbanne,2636.83981382,True,False,False,69266,4.880905378246848,45.761716551291954
+14 14 Place Jules Grandclément,Villeurbanne,1129.83509623,True,True,False,69266,4.88648873102941,45.75848439700167
+15 28 Avenue Marc Sangnier,Villeurbanne,2857.4701,False,False,False,69266,4.874039765932654,45.76103503015672
+16 Rue du 4 Septembre 1797,Villeurbanne,1356.58974371,False,False,False,69266,4.87251593972212,45.761659596880264
+20 32 Rue Docteur Frappaz,Villeurbanne,1775.82302195,False,True,False,69266,4.894905821143394,45.76173813257478
+21 Allée Léon Meiss,Villeurbanne,1157.36153041,False,False,False,69266,4.880518975664239,45.769034070055405
+18 19 Avenue Marc Sangnier,Villeurbanne,2863.08082892,True,True,False,69266,4.874298567493719,45.76179471264058
+25 116 Rue de la Ligne de l'Est,Villeurbanne,7396.40372013,False,False,False,69266,4.908958075847436,45.75634930658477
+29 Rue des Charmettes,Villeurbanne,202.49109998,False,False,False,69266,4.867122573718834,45.76983672980813
+33 46 Rue du Progrès,Villeurbanne,1989.20221891,True,True,False,69266,4.894286356588752,45.762656044078234
+34 Allée du Couchant,Villeurbanne,2138.72405005,False,True,False,69266,4.879513251269315,45.759423865745596
+31 27 Rue Hippolyte Kahn,Villeurbanne,654.68704499,False,False,False,69266,4.875698541944636,45.769640425736426
+32 24 Rue Victor Basch,Villeurbanne,384.17549149,True,False,False,69266,4.896741001309149,45.76318072639711
+42 63 Cours Tolstoï,Villeurbanne,6262.19864735,True,True,False,69266,4.876587019844284,45.76376441840804
+38 56 Rue Florian,Villeurbanne,3332.5985041,True,True,False,69266,4.879678289683615,45.75798450801403
+44 2 Rue Pierre Baratin,Villeurbanne,2273.84270605,True,False,False,69266,4.900539862930557,45.76459024867124
+106 53 Rue Francis de Pressensé,Villeurbanne,7458.28218445,True,True,False,69266,4.872751563137294,45.773032393038555
+53294 Place Aristide Briand,Lyon 3e Arrondissement,7416.89,True,True,True,69383,4.849381655689616,45.753290513872145
+367 14 Rue Willy Brandt,Villeurbanne,5313.09427777,True,True,False,69266,4.917176592271231,45.76312073841449
+376 18 Rue Jean Jaurès,Villeurbanne,2823.57863675,False,False,False,69266,4.879923175922374,45.75624807962573
+378 Rue Julien Peyhorgue,Villeurbanne,1336.15461353,True,False,False,69266,4.882283135307591,45.770567541341784
+380 59 Rue Léon Blum,Villeurbanne,7952.52528748,True,True,False,69266,4.895245822730834,45.76044892799976
+394 66 Avenue Galline,Villeurbanne,2249.75470264,False,False,False,69266,4.867536636364442,45.77621806142103
+395 74 Cours Emile Zola,Villeurbanne,1529.39448529,True,True,True,69266,4.870851186566107,45.77074607854058
+393 3 Rue Frédéric Faÿs,Villeurbanne,253.39270325,False,False,False,69266,4.903101978681459,45.76476002497355
+397 11 Rue de l'Avenir,Villeurbanne,4122.76459873,True,True,False,69266,4.90764536661304,45.755071505487734
+30 10 chemin de la Buissière,Rillieux-la-Pape,3760.0,True,False,False,69286,4.88264237344264,45.80214095556113
+53062 Place de la Reconnaissance,Lyon 3e Arrondissement,1953.89,True,True,False,69383,4.885782244552631,45.75405861803141
+53074 Place Sainte Anne,Lyon 3e Arrondissement,2064.1,True,True,False,69383,4.865188219371039,45.75691057410055
+53180 Rue Edison,Lyon 3e Arrondissement,643.49,False,False,False,69383,4.847863534748521,45.758208884153525
+3139 51Cours Eugénie,Lyon 3e Arrondissement,1602.06,True,False,False,69383,4.887868537085238,45.74499189233659
+52197 Rue Hrant Dink,Lyon 2e Arrondissement,2533.56,False,False,False,69382,4.815932662460737,45.73387335411452
+9126 Pont de l'Ile Barbe,Lyon 9e Arrondissement,11392.11,True,True,True,69389,4.8301411742277045,45.79671266396304
+28 5 Rue Alexandre Dumas,Rillieux-la-Pape,4638.0,False,False,True,69286,4.893456995487215,45.81466200982319
+55066 Place des Minimes,Lyon 5e Arrondissement,6718.34,False,False,False,69385,4.820844786640821,45.75694862612874
+17 165 Rue Ampère,Rillieux-la-Pape,70510.0,False,False,False,69286,4.892482699909257,45.817042777980056
+52032 Place Gensoul,Lyon 2e Arrondissement,1825.74,False,False,False,69382,4.823741157156067,45.751105869994284
+4061 57 Rue d'Ypres,Lyon 4e Arrondissement,10406.54,False,False,False,69384,4.816030640529223,45.781333973535745
+53302 Place Charles De Gaulle,Lyon 3e Arrondissement,6204.09,False,False,False,69383,4.852350693491822,45.76078198510482
+4183 61 Rue Chazière,Lyon 4e Arrondissement,14336.31,False,False,True,69384,4.813390790240214,45.77730782709354
+4191 39 Rue de Cuire,Lyon 4e Arrondissement,3799.34,True,True,False,69384,4.830169083560083,45.77732868971158
+5074 60 Rue Joliot Curie,Lyon 5e Arrondissement,13781.17,True,True,True,69385,4.788679212145429,45.754730881355556
+7290 Quai du Canada,Lyon 7e Arrondissement,49728.27,True,True,True,69387,4.821084129405636,45.727283438595855
+53056 Place Bir Hakeim,Lyon 3e Arrondissement,6734.49,True,True,True,69383,4.855619027974846,45.75307103592735
+57186 Square du Professeur Galtier,Lyon 7e Arrondissement,3190.19,False,False,False,69387,4.830569839025506,45.72781108546289
+5114 130 Rue Commandant Charcot,Lyon 5e Arrondissement,2485.57,False,False,False,69385,4.789405002867598,45.747902347778165
+5117 6 Rue de la Garde,Lyon 5e Arrondissement,41050.02,True,True,True,69385,4.792591324596684,45.75908141969057
+53184 Rue Feuillat,Lyon 3e Arrondissement,341.18,False,False,False,69383,4.877333295560871,45.75257227684163
+5085 Place du 158 ème Régiment d'Infanterie,Lyon 5e Arrondissement,26784.35,False,False,False,69385,4.817292299519643,45.764972006118796
+55215 Place Pierre Bossan,Lyon 5e Arrondissement,1949.41,True,False,False,69385,4.82087012906862,45.75268637038208
+5139 22 Avenue du Point du Jour,Lyon 5e Arrondissement,909.83,False,False,False,69385,4.8043663571671855,45.75631260274642
+5177 28 rue des aqueducs,Lyon 5e Arrondissement,1410.73,True,False,False,69385,4.79481409931531,45.758658830913205
+5154 15 Rue du Boeuf,Lyon 5e Arrondissement,571.05,True,False,False,69385,4.827043991965936,45.76243128355096
+6095 37 Boulevard des Brotteaux,Lyon 6e Arrondissement,2155.15,True,False,False,69386,4.857664146388231,45.765725684953146
+6063 128 Rue Garibaldi,Lyon 6e Arrondissement,6306.79,True,True,False,69386,4.851029583833184,45.76438216248491
+6161 40 Rue Germain,Lyon 6e Arrondissement,1495.82,False,True,False,69386,4.867011786943156,45.764767790757666
+7061 7 Rue de l'Université,Lyon 7e Arrondissement,1244.88,False,False,False,69387,4.8387972780064885,45.75165566161371
+35 1 Place du Château,Rillieux-la-Pape,3262.0,False,False,False,69286,4.893879344436331,45.825121377744594
+3 6 Rue de l'école,Rillieux-la-Pape,9815.0,False,False,False,69286,4.90919743146903,45.83471382207725
+7113 68 Rue Chevreul,Lyon 7e Arrondissement,2716.54,True,False,False,69387,4.844281040241022,45.746083131998915
+7101 14 Rue Prosper Chappet,Lyon 7e Arrondissement,1968.99,True,True,True,69387,4.831449683686336,45.72958607075307
+3164 27 Rue Maurice Flandin,Lyon 3e Arrondissement,8847.5,True,True,False,69383,4.863109144717664,45.759192281259814
+3167 2 Passage Roger Bréchan,Lyon 3e Arrondissement,730.73,True,False,False,69383,4.866691850606818,45.750719002927134
+3069 74 Rue Claude Farrere,Lyon 3e Arrondissement,509.2,False,False,False,69383,4.89402750956037,45.7427742294223
+3270 26 Rue Docteur Rebatel,Lyon 3e Arrondissement,2029.87,False,True,False,69383,4.872084683546341,45.74800894677182
+55217 Promenade de la Sarra,Lyon 5e Arrondissement,10526.83,False,False,False,69385,4.814344747471482,45.76288052150448
+55064 Place de la Commanderie,Lyon 5e Arrondissement,787.01,True,True,False,69385,4.825103084360741,45.7576402757057
+8102 43 Avenue de Préssensé,Lyon 8e Arrondissement,9900.31,True,True,False,69388,4.862961153390914,45.728475908539465
+24 741 Route du Mas Rillier,Rillieux-la-Pape,96224.0,False,False,False,69286,4.913951618760681,45.82718767102751
+6050 119 Rue des Charmettes,Lyon 6e Arrondissement,592.04,True,False,False,69386,4.86717565351204,45.764972288219916
+55075 Place François Bertras,Lyon 5e Arrondissement,943.92,True,True,False,69385,4.825108762117295,45.75780983796582
+8177 Place René et Madeleine Caille,Lyon 8e Arrondissement,3796.05,True,True,False,69388,4.864509110009142,45.73066628416161
+1043 37 Rue Pierre Dupond,Lyon 1er Arrondissement,1429.44,True,False,False,69381,4.821916195497047,45.771838262867675
+38,Rillieux-la-Pape,98932.0,False,False,False,69286,4.879805325594006,45.825781583278456
+1040 10 Rue de Vauzelle,Lyon 1er Arrondissement,4930.55,True,True,True,69381,4.8262795602447985,45.77325172695996
+1084 4 rue Rozier,Lyon 1er Arrondissement,532.74,True,False,False,69381,4.833549991470027,45.76944635882547
+6097 16 Rue Louis Blanc,Lyon 6e Arrondissement,673.15,True,False,True,69386,4.848047937409871,45.76424009576533
+3035 8 Rue du Docteur Paul Sisley,Lyon 3e Arrondissement,9982.59,True,True,True,69383,4.8685270857716185,45.75149016769075
+8048 Angle Etat Unis Cazeneuve,Lyon 8e Arrondissement,2471.67,False,False,False,69388,4.863186812491493,45.73385736092341
+4041 33 Rue Henry Gorjus,Lyon 4e Arrondissement,17430.88,True,True,True,69384,4.820753837004415,45.77725920716868
+5123 1 Rue des Estrées,Lyon 5e Arrondissement,2063.68,True,False,False,69385,4.82789198971333,45.76080685556004
+5128 Place du 158 ème Régiment d'Infanterie,Lyon 5e Arrondissement,5907.39,True,False,False,69385,4.813475905588114,45.76294855404734
+1 Rue de la Mairie,Champagne-au-Mont-d'Or,3031.0,False,False,True,69040,4.7911209876,45.794805703092855
+3 Rue de la Mairie,Champagne-au-Mont-d'Or,1877.0,False,False,False,69040,4.7909981852,45.79436366239291
+4 Boulevard de la République,Champagne-au-Mont-d'Or,2378.0,False,False,False,69040,4.7882856821,45.79527480859281
+5 Chemin du Coulouvrier,Champagne-au-Mont-d'Or,3460.0,False,False,True,69040,4.7787289572,45.796457008792665
+6 Rue Bellevue,Champagne-au-Mont-d'Or,400.0,False,False,False,69040,4.784797949099999,45.795918773692726
+"1215 40 , Rue de Crimee",Lyon 1er Arrondissement,1300.17,False,False,False,69381,4.831258566157992,45.773338215926934
+4049 44 Rue Deleuvre,Lyon 4e Arrondissement,1913.54,True,False,False,69384,4.825514001768543,45.779638014377156
+1156 20 Montée de la Butte,Lyon 1er Arrondissement,1349.58,False,False,False,69381,4.815955046452432,45.76958937067174
+26 Chemin de la Teyssonnière,Rillieux-la-Pape,412793.0,False,False,False,69286,4.912049915760183,45.81958933337761
+7104 Avenue Leclerc,Lyon 7e Arrondissement,29593.75,True,True,False,69387,4.8221447784972025,45.7330736526259
+57134 14 Av Leclerc,Lyon 7e Arrondissement,1480.83,True,False,False,69387,4.831251822456916,45.74462051112056
+1013 20 Place des Terreaux,Lyon 1er Arrondissement,7656.41,False,True,False,69381,4.833029791540201,45.76643175652206
+4200 35 Quai Joseph Gillet,Lyon 4e Arrondissement,2713.2,True,True,True,69384,4.81138112657826,45.776581480835624
+4063 67 Rue Henri Gorjus,Lyon 4e Arrondissement,2458.21,True,False,False,69384,4.823157178853695,45.783785981441916
+1093 25 Montée Sébastien,Lyon 1er Arrondissement,5454.61,False,False,False,69381,4.8360472026536465,45.77254491016947
+1212 10 Rue Calliet,Lyon 1er Arrondissement,1745.13,True,False,False,69381,4.832729153544911,45.772904673112976
+9305 Rue Cottin,Lyon 9e Arrondissement,2154.29,True,True,False,69389,4.806288318088047,45.77162641303767
+3040 7 rue Jules Verne,Lyon 3e Arrondissement,16755.4,True,True,False,69383,4.878741382327294,45.74987944367931
+3142 Rue Saint Maximin,Lyon 3e Arrondissement,968.83,True,True,False,69383,4.8715504058117105,45.74746151992415
+51059 Place Chazette,Lyon 1er Arrondissement,7358.36,True,True,False,69381,4.837380688599782,45.77297132691747
+56100 Rue tête d'or,Lyon 6e Arrondissement,2221.55,True,True,False,69386,4.85270481375229,45.7681125873437
+57171 Rue Raoul Servant,Lyon 7e Arrondissement,680.89,False,False,False,69387,4.836726115187978,45.74581396175663
+57230 Berges Karen Blixen,Lyon 7e Arrondissement,,False,False,False,69387,4.839361927722989,45.756491475593684
+56017 Boulevard des Brotteaux,Lyon 6e Arrondissement,,False,False,False,69386,4.857257538123019,45.7641006669005
+57116 Rue du repos,Lyon 7e Arrondissement,1036.2,False,False,False,69387,4.852469001235722,45.74338697796039
+9014 Rue Marcel Cerdan,Lyon 9e Arrondissement,2087.63,True,True,False,69389,4.795076276111529,45.787162827111835
+7017 Rue de gerland,Lyon 7e Arrondissement,2543.06,False,True,False,69387,4.836573811175479,45.72642327316783
+7189 140 rue Sebastien Gryphe,Lyon 7e Arrondissement,1720.63,True,True,False,69387,4.8381732126184955,45.747472545956775
+8284 angle Bd Eats Unis-Viviani,Lyon 8e Arrondissement,1287.26,False,False,False,69388,4.870498548986149,45.725156239897295
+58012 Bd Jean XXIII,Lyon 8e Arrondissement,789.32,False,False,False,69388,4.877538096849758,45.742463602435805
+7148 9 rue Cdt Ayasse,Lyon 7e Arrondissement,635.1,True,True,False,69387,4.825984120691213,45.736763429467025
+7261 allée d'Italie,Lyon 7e Arrondissement,2856.35,False,False,False,69387,4.828144210392202,45.73030725895123
+8042 30 rue du professeur Morat,Lyon 8e Arrondissement,5190.58,True,True,False,69388,4.878885918869874,45.73448837740603
+8254 123 rue Marius Berliet,Lyon 8e Arrondissement,1501.01,True,False,False,69388,4.867121637233703,45.738803833250245
+1089 33 montée de la Grande Côte,Lyon 1er Arrondissement,9156.82,True,True,False,69381,4.831699311484958,45.77135783284519
+8032 25 Avenue des Frères Lumière,Lyon 8e Arrondissement,7474.16,True,True,True,69388,4.8645789156276615,45.74648275015066
+8091 Rue Longefer,Lyon 8e Arrondissement,3224.09,True,True,False,69388,4.882084498829547,45.74000516789666
+4208 3 rue d'Ivry,Lyon 4e Arrondissement,273.17,False,True,False,69384,4.832748554643273,45.77723722780689
+8262 rue Paul Cazeneuve,Lyon 8e Arrondissement,346.87,True,False,False,69388,4.862612465368183,45.73356183981873
+5160 4 rue Cardinal Gerlier,Lyon 5e Arrondissement,5113.09,False,False,True,69385,4.8149760788437606,45.758484049771866
+1 22 bis Avenue Edouard Aynard,Écully,11500.0,True,False,False,69081,4.778994000000001,45.7766900408949
+2 18 Avenue du Dr Terver,Écully,6000.0,True,True,False,69081,4.776397,45.77219504089539
+3 28 Chemin du Trouillat,Écully,70000.0,True,True,False,69081,4.766918,45.777487040894805
+4 21 Avenue Edouard Aynard,Écully,15000.0,False,False,True,69081,4.777678000000001,45.77898704089465
+5 15 Chemin de Charbonnières,Écully,1600000.0,False,False,False,69081,4.754175,45.79753204089255
+6 31 Avenue Paul Santy,Écully,5200.0,False,True,False,69081,4.771097,45.772885040895325
+7 5 Chemin des Hautes Bruyères,Écully,15000.0,False,False,False,69081,4.765213,45.7766300408949
+8 4 Rue Benoit Tabard,Écully,920.0,False,False,False,69081,4.777432999999999,45.773696040895224
+5320 Rue François Genin,Lyon 5e Arrondissement,337.67,True,False,False,69385,4.796083780283757,45.754300473147666
+54137 Place Edouard Millaud,Lyon 4e Arrondissement,1921.88,True,True,True,69384,4.823402711154748,45.77434358788858
+16 700 Avenue Pierre Mendés France,Rillieux-la-Pape,32047.0,False,False,False,69286,4.873484025457444,45.81555874972465
+7277 37 Rue du repos,Lyon 7e Arrondissement,166949.37,True,True,True,69387,4.850809041575101,45.74607663813746
+7283 198 Avenue Jean jaures,Lyon 7e Arrondissement,4541.61,False,False,False,69387,4.836270505270254,45.73621142170143
+52028 Place des Celestins,Lyon 2e Arrondissement,2683.72,False,False,True,69382,4.831397097277308,45.7597587565497
+7259 Rue jaboulay-Camille Roy,Lyon 7e Arrondissement,563.18,True,True,False,69387,4.846920088545933,45.745098164463315
+54 16 rue de Margnolles,Caluire-et-Cuire,7734.0,True,True,False,69034,4.83437924568485,45.78293425994118
+34 1 Chemin de Chantemerle,Rillieux-la-Pape,10021.0,False,False,False,69286,4.907777377172902,45.83120138027229
+40,Rillieux-la-Pape,296.0,False,False,False,69286,4.906170090842701,45.84411028334405
+1274 Rue de Thou,Lyon 1er Arrondissement,243.65,False,False,False,69381,4.836471110315759,45.77017992892734
+6 Avenue Garibaldi,Vaulx-en-Velin,685.0,False,False,False,69256,4.92995766909488,45.766271642280785
+3094 14 cours Eugenie,Lyon 3e Arrondissement,546.33,True,True,False,69383,4.886758657087162,45.749136789299165
+2245 Rue Casimir Perier,Lyon 2e Arrondissement,9085.84,True,True,False,69382,4.8173193243661645,45.74397951056449
+2246 Quai Rambaud,Lyon 2e Arrondissement,11888.11,False,True,False,69382,4.814306185725348,45.741307765605704
+8289 Boulevard des Etats Unis,Lyon 8e Arrondissement,995.98,False,False,False,69388,4.867055823194563,45.72899547753825
+8287 Rue henri Pensier,Lyon 8e Arrondissement,222.19,False,False,False,69388,4.862553947909878,45.74522042629546
+55123 8 Rue de Trion,Lyon 5e Arrondissement,270.0,False,False,False,69385,4.818630390189566,45.756095100831914
+9335 19 rue de la Corderie & 5 rue Roquette,Lyon 9e Arrondissement,5346.7,True,True,False,69389,4.805594060822299,45.77612290685166
+23 Avenue Grandclément,Vaulx-en-Velin,113997.0,False,False,False,69256,4.924680969862264,45.77024933968683
+24 Rue André Chénier,Vaulx-en-Velin,3950.0,True,False,False,69256,4.924019637979458,45.753470765528
+41 6 Rue Joannès Drevet,Vaulx-en-Velin,2904.0,True,False,False,69256,4.929523162158018,45.7773390964912
+48 Rue Général Charles Delestraint,Vaulx-en-Velin,901.0,False,False,False,69256,4.911747968984247,45.78900550753292
+3415 72 rue Chaponnay,Lyon 3e Arrondissement,1231.57,False,True,False,69383,4.848147778397833,45.75830056948066
+9102 33 rue Roquette,Lyon 9e Arrondissement,415.39,False,False,False,69389,4.807146609974617,45.77647959865258
+57231 Berges Anna Lindh,Lyon 7e Arrondissement,,False,False,False,69387,4.836377213815997,45.752152133799115
+51054 Place du 157e R.I.A.,Lyon 1er Arrondissement,,False,False,False,69381,4.815425011884499,45.76845859015169
+56028 Place Puvis de Chavannes,Lyon 6e Arrondissement,8746.31,True,False,True,69386,4.843535915745881,45.771111155789164
+52021 Place Antonin Poncet,Lyon 2e Arrondissement,11800.39,False,False,False,69382,4.833590567967537,45.75687747338104
+53061 Place de la Ferrandière,Lyon 3e Arrondissement,9423.07,True,True,False,69383,4.870027283261791,45.75967779500181
+52022 Place Bellecour,Lyon 2e Arrondissement,7250.0,True,True,True,69382,4.829596584515969,45.75731096393364
+55065 Place de Trion,Lyon 5e Arrondissement,,False,False,False,69385,4.812431338747527,45.7580200702899
+10803 0 Angle des rues Michel / Roux,Vénissieux,1432.0,True,True,False,69259,4.8580661944489005,45.72822678588635
+10905 0 Place Ennemond Romand,Vénissieux,11688.0,True,True,True,69259,4.859753192801306,45.72506096120873
+10907 2 Rue Vaillant Couturier,Vénissieux,1506.0,True,True,False,69259,4.854274539252599,45.72463120360349
+53324 Berges Aletta Jacob,Lyon 3e Arrondissement,,False,False,False,69383,4.840898327953319,45.761792644818634
+11104 0 Rue Paul Reverchon,Vénissieux,1597.0,True,True,False,69259,4.8666664877294386,45.72233325979775
+11403 0 Agle de l'avenue Jean Jaurès / rue Carnot,Vénissieux,1708.0,False,False,False,69259,4.879067356111047,45.704469055974805
+11404 0 Avenue Jean Jaurès,Vénissieux,3819.0,False,False,False,69259,4.87960561510224,45.703566881632035
+11502 0 Rue de l'Ancienne Gare,Vénissieux,1014.0,False,False,False,69259,4.882795258435417,45.70697674253659
+20302 10 Avenue Jules Guesde,Vénissieux,1192.0,False,False,False,69259,4.887329753051523,45.71716697910455
+20303 27 Avenue Jules Guesde,Vénissieux,1866.0,True,False,False,69259,4.888075462540646,45.71692551575954
+20602 0 Rue Eugène Labourde,Vénissieux,517.0,True,True,True,69259,4.886078889214611,45.71735462257479
+7308 Place Jean-Pierre Flaconnèche,Lyon 7e Arrondissement,,False,False,False,69387,4.839223649486628,45.74699281885425
+20605 31 Rue Joannès Vallet,Vénissieux,616.0,True,False,False,69259,4.886826843140215,45.7133742489388
+20606 0 Angle des rues Joannès Vallet / Joliot Curie,Vénissieux,789.0,False,False,False,69259,4.885485767140184,45.709327014474184
+20706 0 Rue Nelson Mandela,Vénissieux,14147.0,False,False,True,69259,4.888392080879371,45.71956833812788
+20804 8 Rue Jean Lurçat,Vénissieux,616.0,False,False,False,69259,4.888828588405469,45.72386015682646
+20709 0 Rue Simone Veil,Vénissieux,2531.0,True,False,False,69259,4.886167633284669,45.71946984530869
+4056 51 Boulevard de la Croix Rousse,Lyon 4e Arrondissement,,False,False,False,69384,4.820185622902494,45.77327946166805
+59275 125 Rue Pierre Audry,Lyon 9e Arrondissement,,False,False,False,69389,4.812290986543222,45.75880167044548
+21501 28 Chemin du Charbonnier,Vénissieux,3779.0,True,False,False,69259,4.897795192432006,45.70063878783506
+30103 0 Rue Jules Ferry,Vénissieux,14773.0,False,True,True,69259,4.885178603157821,45.69847749603816
+30104 0 Rue Gambetta,Vénissieux,10408.0,True,True,False,69259,4.884971384599085,45.69740735795181
+9290 Avenue Sidoine Apolinaire,Lyon 9e Arrondissement,33287.59,False,False,False,69389,4.793618246047333,45.7698131421604
+30114 8 Place de la Paix,Vénissieux,1391.0,False,False,False,69259,4.8849927637430985,45.698611112945976
+52026 Place de la Bourse,Lyon 2e Arrondissement,2155.54,False,False,False,69382,4.836021013417454,45.76464532090733
+30108 26 Rue du Château,Vénissieux,1214.0,False,True,False,69259,4.885471273868816,45.69918695769915
+30305 0 Du boulevard du Docteur Coblod à la rue Max Barel,Vénissieux,7392.0,True,False,False,69259,4.897797248062329,45.697834721293084
+30417 0 Rue Bela Bartok,Vénissieux,985.0,True,False,False,69259,4.8948453768721,45.69439411422393
+30507 0 Angle des rues Jodino / Roudil,Vénissieux,3472.0,False,False,False,69259,4.887852715242458,45.69258849351231
+30511 15 Chemin de Feyzin,Vénissieux,5389.0,False,False,False,69259,4.883247324344009,45.69358313938397
+30708 18 Rue Victor Hugo,Vénissieux,1970.0,True,True,False,69259,4.884369030044428,45.70272040941716
+30802 23 Rue Romain Rolland,Vénissieux,3506.0,True,False,False,69259,4.880589656432192,45.699567936529526
+30804 0 Angle des rues Picard/Tristan,Vénissieux,480.0,False,False,False,69259,4.880365722244363,45.69915864621115
+52163 Place de l'Hippodrome,Lyon 2e Arrondissement,10539.53,True,True,True,69382,4.82275703374272,45.744647521496894
+40301 7 Avenue Jean Cagne,Vénissieux,6256.0,True,False,False,69259,4.869945951913646,45.69876639239693
+40402 0 Angle des rues Bruan / Lyvet,Vénissieux,1948.0,False,False,False,69259,4.871106160729387,45.697946127014724
+40601 0 Angle des rues Gabriel Faure / Léo Lagrange,Vénissieux,12381.0,False,False,True,69259,4.874745456866082,45.69609325065642
+40801 29 Rue Léo Lagrange,Vénissieux,11346.0,False,False,False,69259,4.874656976470883,45.700365567274304
+56122 Berges Ellen Marc Arthur,Lyon 6e Arrondissement,,False,False,False,69386,4.8425353584348,45.775158811712174
+40802 27 Rue Léo Lagrange,Vénissieux,8718.0,False,False,False,69259,4.872533379238924,45.70100761022529
+41002 2 Rue Colette,Vénissieux,2883.0,True,True,False,69259,4.871192147744312,45.70054146184193
+41202 0 Rue Prosper Alfaric,Vénissieux,2554.0,False,False,False,69259,4.871682124719556,45.704130339916816
+41301 0 Rue Prosper Alfaric,Vénissieux,2934.0,True,False,False,69259,4.872392407818709,45.704050914516564
+41401 0 Rue Louis Aulagne,Vénissieux,10190.0,True,True,True,69259,4.870778192748606,45.706010674934845
+41501 0 Entre rues Claude Debussy / Ravel,Vénissieux,11633.0,True,True,False,69259,4.873450119180055,45.69854039620066
+1284 33 rue du bon pasteur,Lyon 1er Arrondissement,,False,False,False,69381,4.829694666886331,45.77225815021559
+99031 Boulevard Pinel,nan,,False,False,False,nan,4.88738931694654,45.72404421417465
+52172 Place de l'Hôpital,Lyon 2e Arrondissement,,False,False,False,69382,4.836158748786229,45.759415105759444
+7275 Rue Mazagran,Lyon 7e Arrondissement,4604.02,True,True,True,69387,4.843195431950814,45.75175638569629
+41503 7 Rue Claude Debussy,Vénissieux,3572.0,True,False,False,69259,4.873908379404276,45.69895993224813
+41504 1 Rue Claude Debussy,Vénissieux,1338.0,True,False,False,69259,4.872566231656063,45.69973946999162
+41605 35 Rue Léo Lagrange,Vénissieux,1727.0,True,False,False,69259,4.873833036738875,45.700210974976486
+41801 0 Square Descartes / Rue Robespierre,Vénissieux,434.0,False,False,False,69259,4.8769849610919085,45.70185870791386
+50501 0 Rue Charpak / Louis Semprun,Vénissieux,3016.0,False,True,False,69259,4.8712881860604265,45.69487191674982
+3358 36 avenue Lacassagne,Lyon 3e Arrondissement,1904.21,True,True,False,69383,4.867321329370257,45.75361801597133
+3407 Rue Richard Vitton,Lyon 3e Arrondissement,,False,False,False,69383,4.8978849268008835,45.753020759558694
+53325 Berge Mélina Mercouri,Lyon 3e Arrondissement,,False,False,False,69383,4.8408115071005655,45.760088736114966
+56004 Avenue Général Brosset,Lyon 6e Arrondissement,6886.43,True,True,False,69386,4.8569935750557915,45.76695895543199
+51201 0 Boulevard Lénine,Vénissieux,138792.0,True,True,False,69259,4.86572932284607,45.69821599978544
+60802 12 Rue Gaston Monmousseau,Vénissieux,16714.0,True,True,False,69259,4.879117465870705,45.69498424242476
+51202 45 Boulevard Lénine,Vénissieux,2648.0,True,False,False,69259,4.865736531324361,45.69270173922602
+1078 36 Cours Général Giraud,Lyon 1er Arrondissement,18804.61,True,True,False,69381,4.8200637352723525,45.76822806472797
+61106 0 Angle avenue Marcel Cachin / Chemin de Feyzin,Vénissieux,1764.0,False,False,False,69259,4.880497657035164,45.69143145432576
+185 3 Rue du Champ de l'Orme,Villeurbanne,262.60559485,False,False,False,69266,4.8905071941093805,45.77194110167875
+52175 Place Général Delfosse,Lyon 2e Arrondissement,12992.72,False,True,False,69382,4.817667147822408,45.747373946366025
+1282 3 rue Saint Benoît,Lyon 1er Arrondissement,1336.05,False,False,False,69381,4.825628294288073,45.76902057851827
+61302 23 Rue Vladimir Komarov,Vénissieux,7510.0,True,False,False,69259,4.876089738755074,45.69192530163211
+1279 17 rue burdeau,Lyon 1er Arrondissement,285.25,False,False,False,69381,4.832815446180055,45.77041752236322
+9360 Avenue du Plateau,Lyon 9e Arrondissement,,False,False,False,69389,4.792832868090807,45.78400301839143
+6051 38 Cours Vitton,Lyon 6e Arrondissement,,False,False,False,69386,4.853834316931127,45.76940368111787
+51501 21 Boulevard Lénine,Vénissieux,1888.0,False,False,False,69259,4.862413035788973,45.696984147789856
+7221 16 rue Louis Broussas,Lyon 7e Arrondissement,209654.61,True,True,True,69387,4.823421328880236,45.7201429318119
+8258 260 route de Vienne,Lyon 8e Arrondissement,99809.41,True,True,False,69388,4.8486275054819155,45.724810393413264
+7078 27 Rue Bancel,Lyon 7e Arrondissement,,False,False,False,69387,4.838664091289926,45.74661179582523
+2 Quai Georges Lévy,Givors,16272.0,False,True,True,69091,4.773024499805607,45.58623398006877
+1 Place de la Liberté,Givors,6346.0,False,True,True,69091,4.775071222696177,45.5839060164545
+53326 Berges Marie Sklodowska Mercurie,Lyon 3e Arrondissement,,False,False,False,69383,4.84012799336422,45.7584347212482
+8310 6 Rue de Champagnieux,Lyon 8e Arrondissement,,False,False,False,69388,4.851456867788453,45.73147077368002
+8096 130 Rue Guillaume Paradin,Lyon 8e Arrondissement,8978.96,True,True,True,69388,4.889581569988228,45.73544016176699
+2056 22 Cours de Verdun,Lyon 2e Arrondissement,12737.21,False,True,False,69382,4.826359834515818,45.74946569503411
+52160 Square Jamnot,Lyon 2e Arrondissement,676.54,True,True,False,69382,4.825616760767434,45.754319337411594
+1124 Jardin Croix Paquet,Lyon 1er Arrondissement,7780.32,True,True,True,69381,4.835949262325944,45.76998962551323
+4068 119 Boulevard de la Crois Rousse,Lyon 4e Arrondissement,1200.03,False,False,False,69384,4.82708152089232,45.77419521171901
+53072 Place Pierre Renaudel,Lyon 3e Arrondissement,2230.24,False,False,True,69383,4.8573391979685825,45.75753769479944
+4115 87 Grande Rue de la Croix Rousse,Lyon 4e Arrondissement,529.26,False,True,False,69384,4.831846927567588,45.78050458742599
+4162 28 Montée de la Boucle,Lyon 4e Arrondissement,1039.29,False,False,False,69384,4.840012721016657,45.78041804445315
+56068 Rue Félix Jacquier,Lyon 6e Arrondissement,253.47,False,False,False,69386,4.847410014872146,45.77210642836244
+53159 Rue Desaix,Lyon 3e Arrondissement,2326.19,False,False,False,69383,4.8547969166148945,45.75711529877655
+3053 1 Place du Château,Lyon 3e Arrondissement,4466.66,True,True,False,69383,4.887772414656319,45.74911978924901
+53318 Rue Moncey,Lyon 3e Arrondissement,2209.52,False,False,False,69383,4.8484335503210385,45.75997375092345
+3156 14 Rue Saint Théodore,Lyon 3e Arrondissement,2885.78,False,False,False,69383,4.86339989120029,45.748376921619816
+3366 89 rue Antoine Charial,Lyon 3e Arrondissement,213.7,False,False,False,69383,4.869963623597296,45.757805381468806
+57038 Place Ollier,Lyon 7e Arrondissement,2646.54,True,True,False,69387,4.837633664814763,45.75254946613335
+59124 Av du Plateau,Lyon 9e Arrondissement,3750.34,False,True,False,69389,4.794907040190065,45.7841660414488
+53289 Avenue Lacassagne,Lyon 3e Arrondissement,470.54,True,False,False,69383,4.871359524648599,45.75187931024468
+51080 Rue Bodin,Lyon 1er Arrondissement,2665.35,True,True,False,69381,4.834963391384828,45.772736365432635
+54037 Place Camille Flammarion,Lyon 4e Arrondissement,2750.22,True,True,True,69384,4.820381862261733,45.779207929177566
+9058 204 Avenue Barthelemy Buyer,Lyon 9e Arrondissement,4954.64,True,False,False,69389,4.7909489176550215,45.76429781587202
+17 Esplanade Georges Lyvet,Givors,992.0,False,False,False,69091,4.770920835453893,45.60046879046854
+54147 Place Georges Mattelon,Lyon 4e Arrondissement,991.89,True,True,False,69384,4.835901903746113,45.77983443675176
+8018 12 Avenue Jean Mermoz,Lyon 8e Arrondissement,12192.12,True,True,False,69388,4.873706561161916,45.733595949580135
+8086 7 Rue Général Gouraud,Lyon 8e Arrondissement,1523.63,True,True,False,69388,4.8505539833315,45.734674129457765
+4109 26 Montée Bonnafous,Lyon 4e Arrondissement,,False,False,False,69384,4.837188526343016,45.775159406421345
+3 Avenue Maréchal Leclerc,Givors,2973.0,False,False,False,69091,4.773162155504446,45.58840879269109
+8060 118 Avenue Paul Santy,Lyon 8e Arrondissement,2214.37,True,False,False,69388,4.876016948275427,45.728348013712534
+5134 Place Batonnier Valensio,Lyon 5e Arrondissement,3639.57,True,True,True,69385,4.82511848800226,45.758004625778824
+8067 1 Impasse Saint Mathieu,Lyon 8e Arrondissement,3419.23,True,True,False,69388,4.8609985625649,45.743627995093775
+2244 Quai Rambaud,Lyon 2e Arrondissement,5384.87,False,False,False,69382,4.815587686619636,45.73313136027219
+59219 15 Rue du Bas de Loyasse,Lyon 9e Arrondissement,,False,False,False,69389,4.810197782664129,45.760435483279885
+53311 Square du Dauphiné,Lyon 3e Arrondissement,,False,False,False,69383,4.864818373627012,45.751439603974404
+4 32 Rue Victor Hugo,Givors,1120.0,False,False,True,69091,4.77093792921275,45.58964399043302
+5 Promenade Maurice Thorez / Place des Tours,Givors,5937.0,False,False,False,69091,4.773008198472858,45.589699760649175
+6 Rue Yves Farge / Rue Jean Ligonnet / Rue Joseph et Marie-Louise Liauthaud,Givors,1024.0,False,False,False,69091,4.769709895478411,45.5916735469878
+7 Rue du Moulin / Impasse Platière,Givors,4799.0,False,False,False,69091,4.766640716772154,45.58886922232311
+8 Avenue du Onze Novembre 1918,Givors,2832.0,False,False,False,69091,4.771895179697414,45.5952096481753
+9 Quai Eugène Souchon,Givors,29390.0,False,False,False,69091,4.755941608706157,45.58420137465867
+10 Quai de la navigation,Givors,824.0,False,False,False,69091,4.775191671432666,45.58876211652425
+11 27 Avenue Anatole France,Givors,2863.0,False,False,False,69091,4.787050891013198,45.57783688533041
+12 Chemin du Vieux Donjon,Givors,4253.0,False,False,False,69091,4.773776172371624,45.58046047849232
+13 Rue du Moulin / Quai des Martyrs du 8 Février 1962,Givors,6529.0,False,False,False,69091,4.769783251475819,45.58720303856045
+14 Rue Romain Rolland / Allée Jean Moulin,Givors,28840.0,False,False,False,69091,4.765136466010553,45.606701705417024
+15 Rue Yves Farge / Avenue Danielle Casanova,Givors,8125.0,False,False,False,69091,4.7670926259413635,45.59264504644697
+16 Rue Jean Ligonnet / Rue Honoré Pététin,Givors,325.0,False,False,False,69091,4.771045812338369,45.59118026534472
+1 Avenue Bergeron,Charbonnières-les-Bains,9955.0,False,False,False,69044,4.743173,45.77748704091213
+2 Chemin de la Bressonnière,Charbonnières-les-Bains,1971.0,False,False,False,69044,4.741341000000002,45.778131040912065
+3 19 Avenue Lamartine,Charbonnières-les-Bains,5237.0,False,False,True,69044,4.738889000000002,45.78203704091161
+4 Chemin de la Bressonnière,Charbonnières-les-Bains,8533.0,False,False,False,69044,4.739742000000001,45.77924204091193
+11101 82 Avenue Francis de Pressensé,Vénissieux,6145.0,False,True,False,69259,4.863342950155594,45.72546580939565
+30304 78 Boulevard du Docteur Coblod,Vénissieux,4406.0,True,True,False,69259,4.896560522164041,45.69654530179337
+40105 0 des rues Jean Cagne / Président Edouard Herriot,Vénissieux,7147.0,False,False,True,69259,4.874321668792213,45.69539357468875
+9130 Square Mouriquand,Lyon 9e Arrondissement,6090.71,False,False,False,69389,4.823742274648716,45.795950831463095
+41502 0 Square Abbé Pierre,Vénissieux,1996.0,True,False,False,69259,4.872626529645701,45.69799837749865
+8282 rue Auguste Pinton,Lyon 8e Arrondissement,1211.93,True,True,False,69388,4.879298542261418,45.73759810656329
+58070 Rue Berchet,Lyon 8e Arrondissement,2193.94,False,False,False,69388,4.868721304831126,45.74133174362965
+56125 Berges Rénata Tébaldi,Lyon 6e Arrondissement,,False,False,False,69386,4.840792067490868,45.768702849136666
+50503 14 Avenue Jean Cagne,Vénissieux,2207.0,False,False,False,69259,4.873188458987169,45.69504782476243
+55230 10 Rue des Quatre Colonne,Lyon 5e Arrondissement,,False,False,False,69385,4.811434245833358,45.757634279302174
+55219 Quai Fulchiron,Lyon 5e Arrondissement,,False,False,False,69385,4.8233180342681194,45.75397225685292
+60903 8 Entre Rue Vladimir Komarov et avenue Jean Moulin,Vénissieux,29322.0,True,True,False,69259,4.875646108425181,45.69046107777523
+9125 Rue Hector Berlioz,Lyon 9e Arrondissement,19625.22,True,False,False,69389,4.820061171211323,45.79972359533868
+1 27 Avenue du Casino,La Tour-de-Salvagny,178196.0,True,True,True,69250,4.719797000000001,45.80336404090911
+2 2 Rue du vingtain,La Tour-de-Salvagny,500.0,False,False,False,69250,4.714576000000002,45.81269304090801
+3 Place de la Mairie,La Tour-de-Salvagny,2532.0,True,False,True,69250,4.715240000000001,45.81430204090784
+1 137 Avenue du 8 mai 1945,Vaulx-en-Velin,30555.0,True,True,True,69256,4.920499187931365,45.78703997434711
+7 Rue Georges Seguin,Vaulx-en-Velin,2883.0,True,False,False,69256,4.920148332442734,45.7818010158344
+9 Avenue Eugène Henaff,Vaulx-en-Velin,16801.0,True,False,False,69256,4.927839250029229,45.77479045820862
+56124 Berges Marlène Diétrich,Lyon 6e Arrondissement,,False,False,False,69386,4.842535358434801,45.77515885355002
+21 4 Rue Maurice Audin,Vaulx-en-Velin,12033.0,True,True,False,69256,4.922113146029787,45.78069456556645
+49 4 Rue Maurice Moissonier,Vaulx-en-Velin,1443.0,False,False,False,69256,4.922879683525653,45.75989981419309
+50 Avenue du 8 mai 1945,Vaulx-en-Velin,773.0,False,False,False,69256,4.919841487743841,45.786608462164054
+51 Promenade Lénine,Vaulx-en-Velin,34067.0,True,False,False,69256,4.9220425109725205,45.777665862838816
+52 Place Pasteur,Vaulx-en-Velin,62.0,True,False,False,69256,4.930400893237496,45.7855549149621
+53 Rue François Rabelais,Vaulx-en-Velin,1425.0,True,False,False,69256,4.919067667377434,45.78023302565085
+54 Avenue Georges Dimitrov,Vaulx-en-Velin,626.0,True,False,False,69256,4.928597427546032,45.77868916523724
+55 Rue Emile Zola,Vaulx-en-Velin,3996.0,False,True,False,69256,4.919747286593289,45.777215242631264
+56 Place Toni Morrison,Vaulx-en-Velin,1170.0,False,False,False,69256,4.92603908819607,45.77553829799783
+60 Rue Jules Romains,Vaulx-en-Velin,2227.0,False,False,False,69256,4.91808105522698,45.77908042769084
+62 Place de la Nation,Vaulx-en-Velin,1084.0,False,False,False,69256,4.921666602611622,45.77847350542369
+6087 Quai Charles de Gaulle,Lyon 6e Arrondissement,149459.86,False,False,False,69386,4.844802331187761,45.77771208863103
+3123 Rue Etienne Dolet,Lyon 3e Arrondissement,4633.74,True,True,True,69383,4.85253757061789,45.75703038405434
+51076 Quai Saint Vincent,Lyon 1er Arrondissement,869.27,True,False,True,69381,4.819958160198953,45.768062980516625
+51212 Rue de la Vieille,Lyon 1er Arrondissement,436.15,True,False,False,69381,4.827175508661188,45.76896928405446
+9336 10 Rue Marietton,Lyon 9e Arrondissement,2601.0,False,False,False,69389,4.7947910231118716,45.77643941372551
+58219 Allée Adolphe Lafont,Lyon 8e Arrondissement,3131.52,True,False,False,69388,4.885233655034646,45.73786762737682
+59241 Quai de la Gare d'Eau,Lyon 9e Arrondissement,3789.62,True,True,True,69389,4.8087846349665435,45.78051100832009
+9088 17 Rue des Deux Amants,Lyon 9e Arrondissement,4191.54,True,False,False,69389,4.795981974314973,45.76836032564321
+22 1 Chemin de la Chapelle,Rillieux-la-Pape,1673.0,False,False,True,69286,4.880507094882079,45.8036177628359
+54150 Quai Joseph Gillet,Lyon 4e Arrondissement,28850.55,False,True,True,69384,4.819837373182536,45.78922695110707
+23 144-339 Chemin de beau regard,Rillieux-la-Pape,180855.0,False,False,False,69286,4.907840372694826,45.836599317688425
+54136 Place Emile Chanel,Lyon 4e Arrondissement,1472.91,True,True,False,69384,4.816524652243641,45.778108541906036
+4048 58 Rue Hénon,Lyon 4e Arrondissement,2789.73,False,False,True,69384,4.824406438276482,45.77964781876868
+55058 Place Benoît Crépu,Lyon 5e Arrondissement,2778.58,True,True,False,69385,4.825951351335735,45.75781827793712
+53332 285 Rue Duguesclin,Lyon 3e Arrondissement,1477.8,True,False,False,69383,4.850050314538024,45.75475424155595
+58050 Place du 8 Mai 1945,Lyon 8e Arrondissement,21073.12,True,True,False,69388,4.86575713258491,45.728943532098995
+5124 11 rue des Macchabées,Lyon 5e Arrondissement,3818.83,False,False,False,69385,4.816895818252985,45.75594938369314
+9154 Montée de Balmont,Lyon 9e Arrondissement,6100.22,True,False,False,69389,4.7998984680752645,45.78553740327598
+53335 Rue Gandolière,Lyon 3e Arrondissement,475.67,False,False,False,69383,4.8655887100063415,45.75976042702948
+1 Ancienne route de Strasbourg,Caluire-et-Cuire,1444.0,False,False,False,69034,4.871252591198026,45.79396888138521
+4 Face au 310 avenue Elie Vignal,Caluire-et-Cuire,3323.0,False,False,False,69034,4.851844044003847,45.79313106540651
+5 Entre le 308 et le 310 avenue Elie Vignal,Caluire-et-Cuire,1625.0,False,False,False,69034,4.851799417207418,45.7930253692379
+7307 34 Rue Clément Marot,Lyon 7e Arrondissement,2073.41,True,True,False,69387,4.833976371715743,45.736429166460425
+8210 18 Rue Léo et Maurice Trouilhet,Lyon 8e Arrondissement,1959.28,True,True,False,69388,4.869150412853075,45.74346974806908
+58222 Place Julie daubié,Lyon 8e Arrondissement,2287.46,False,True,False,69388,4.882230424585954,45.7333124364712
+8252 3 Rue Benoit Bernard,Lyon 8e Arrondissement,1090.43,True,False,False,69388,4.851090868038249,45.73794697775084
+5047 49 Montée du Chemin Neuf,Lyon 5e Arrondissement,1096.33,False,False,False,69385,4.823929819437466,45.758587279856194
+8085 165 Avenue Général Frère,Lyon 8e Arrondissement,2942.63,True,True,False,69388,4.880906990097697,45.72902784706472
+57039 Place Raspail,Lyon 7e Arrondissement,6851.85,True,True,False,69387,4.840291771756796,45.75607049239118
+8099 61 Boulevard Ambroise Paré,Lyon 8e Arrondissement,4985.28,True,True,False,69388,4.8803317157982535,45.73365759929908
+8062 25 Rue du Premier Film,Lyon 8e Arrondissement,5428.27,False,False,False,69388,4.870079382210948,45.74582587839791
+9 73ter Rue Pasteur,Caluire-et-Cuire,3200.0,False,False,False,69034,4.8430893152189185,45.79150915758114
+8263 137 rue Bataille,Lyon 8e Arrondissement,1507.02,False,False,False,69388,4.879882785870278,45.73623695199144
+8065 15 rue Antoine Fonlupt,Lyon 8e Arrondissement,4405.42,True,True,False,69388,4.853782640168056,45.73633213486161
+8029 101 boulevard des Etats Unis,Lyon 8e Arrondissement,2796.05,False,False,False,69388,4.8673011971996205,45.730117567371096
+5198 Place du Docteur Schweitzer,Lyon 5e Arrondissement,8539.83,False,True,True,69385,4.785831453308608,45.75523768557257
+55026 Place Abée Larue,Lyon 5e Arrondissement,1639.7,True,True,True,69385,4.8185260177677804,45.75576106324955
+56087 Rue Michel Rambaud,Lyon 6e Arrondissement,3716.54,False,False,False,69386,4.861640990269823,45.767600334288794
+5125 4 Rue de la Bombarde,Lyon 5e Arrondissement,530.91,False,False,False,69385,4.827104387990143,45.76168073379403
+59269 75 Rue de Saint Cyr,Lyon 9e Arrondissement,1899.51,False,False,False,69389,4.807169998380902,45.78886463527441
+8305 Promenade Juliette Guillot,Lyon 8e Arrondissement,2998.96,True,True,False,69388,4.876221671395029,45.73370001528533
+58234 Rue du commandant Caroline Aigle,Lyon 8e Arrondissement,5216.5,True,True,False,69388,4.885383531626086,45.73197461654104
+3390 128 Avenue Felix Faure,Lyon 3e Arrondissement,27706.61,True,True,True,69383,4.863210783112748,45.75088884877439
+3431 Rue Diday,Lyon 3e Arrondissement,478.1,True,False,False,69383,4.8746557050521755,45.7525476722727
+52201 Place Béatrice Artz,Lyon 2e Arrondissement,2730.21,False,False,False,69382,4.815175527762093,45.73479479890447
+42 Angle rue de Margnolles et rue Docteur Henri Dor,Caluire-et-Cuire,2544.0,False,False,False,69034,4.8355181202559425,45.783011613406835
+43 Square Jean Corbel,Caluire-et-Cuire,11996.0,True,False,False,69034,4.851726972263676,45.79250255526452
+44 216 chemin de Wette-Fays,Caluire-et-Cuire,671.0,True,True,False,69034,4.8558178056685355,45.78894624814145
+9096 Rue Charles Porcher,Lyon 9e Arrondissement,5126.67,True,False,False,69389,4.837338820781682,45.80242077352544
+3190 8 Quai Augagneur,Lyon 3e Arrondissement,3536.79,True,False,False,69383,4.841243295043746,45.7606426875483
+5141 34 Rue Commandant Charcot,Lyon 5e Arrondissement,3199.39,True,False,True,69385,4.8070474023346526,45.75492965816572
+5145 Place Abbé Larue,Lyon 5e Arrondissement,16254.86,False,False,False,69385,4.81847156930106,45.75566842192817
+5266 Rue de l'Antiquaille,Lyon 5e Arrondissement,50321.64,False,False,False,69385,4.82106853980822,45.75840595178067
+9118 60 Rue Pierre Baizet,Lyon 9e Arrondissement,1688.77,False,False,False,69389,4.816130351066999,45.794507666059324
+9003 54 Montée de l'Observance,Lyon 9e Arrondissement,,False,False,False,69389,4.809880980776408,45.76958660147942
+5066 14 Rue Edmond Locard,Lyon 5e Arrondissement,24545.04,True,True,True,69385,4.801715560341002,45.756260744005765
+9 45 Rue Pierre Baratin,Villeurbanne,471.42742971,False,False,False,69266,4.900550642273653,45.76321688197552
+3 36 Boulevard Emile Bollaert,Bron,178000.0,False,True,True,69029,4.901761482377476,45.71146830150018
+2 Rue Jean-Marie Michel,Champagne-au-Mont-d'Or,600.0,False,False,True,69040,4.7903747184,45.79523702439282
+6 470 Chemin du Creux,Rillieux-la-Pape,3716.0,True,False,False,69286,4.89270813838643,45.828168827943806
+28 1 Petite Rue Pasteur,Villeurbanne,1413.92340639,True,True,False,69266,4.8989786498933325,45.76584531618623
+30 Rue Francis de Pressensé,Villeurbanne,7226.57299925,True,False,False,69266,4.879075759190899,45.77318410829323
+43 174 Rue Léon Blum,Villeurbanne,211.97733006,False,False,False,69266,4.908085674402331,45.76094084026716
+53 17-21 Rue Rouget De l'Isle,Villeurbanne,415339.270511,False,False,False,69266,4.880776513066063,45.787633178119826
+182 20 Rue du 8 Mai 1945,Villeurbanne,4296.30593692,True,True,False,69266,4.889348264779056,45.78128775054247
+51213 Quai Saint Vincent,Lyon 1er Arrondissement,12317.56,False,True,True,69381,4.831205397232136,45.7648395689467
+5 18 Allée des Cyprès,Rillieux-la-Pape,4345.0,True,False,False,69286,4.884695416596328,45.80499957741349
+7 52 Montée de Castellane,Rillieux-la-Pape,12841.0,False,True,False,69286,4.8989888022123225,45.81353335418481
+1 60 Rue Alexendre BERARD,Rillieux-la-Pape,27289.0,True,False,False,69286,4.896439341970139,45.82128420746019
+5056 23 Rue Roger Radisson,Lyon 5e Arrondissement,22320.41,True,True,True,69385,4.8179829555178895,45.757555734750675
+5079 39 Rue de Champvert,Lyon 5e Arrondissement,12035.78,True,True,True,69385,4.7958049749956215,45.762032992138344
+3 45 Avenue Georges Clemenceau,Saint-Genis-Laval,4894.07,True,False,True,69204,4.795598000000001,45.69802304090316
+4 18 Rue de la Croix Rouge,Saint-Genis-Laval,60630.49,False,False,False,69204,4.784917,45.69925604090303
+189 2 Rue Richelieu,Villeurbanne,811.7531838,False,False,False,69266,4.87790740289911,45.76268401638664
+192 67 Rue Anatole France,Villeurbanne,238.74810409,False,False,False,69266,4.875234172639505,45.767637262338404
+193 36 Avenue Paul Krüger,Villeurbanne,7198.34761573,True,True,False,69266,4.895252214309994,45.75628152067289
+198 34 Rue de la Soie,Villeurbanne,3022.33113614,False,True,False,69266,4.919180155852439,45.76044173500098
+200 Cours Emile Zola,Villeurbanne,2423.9026288,True,True,False,69266,4.869993078036138,45.771431244549575
+201 129 Rue Jean Voillot,Villeurbanne,1159.23159989,True,True,False,69266,4.910532286374611,45.755772495142196
+202 23 Rue de la Convention,Villeurbanne,80.52138917,False,True,False,69266,4.872198405203471,45.76367006248516
+208 Rue Anatole France,Villeurbanne,246.96127617,False,False,False,69266,4.883779316031612,45.76883170344952
+279 141 Cours Tolstoï,Villeurbanne,298.42542901,False,False,False,69266,4.885979963439967,45.76094032878518
+370 4 Rue Sabine Zlatin,Villeurbanne,2558.30007621,True,True,False,69266,4.918217961880065,45.75409791792091
+3412 Av lacassagne,Lyon 3e Arrondissement,315.96,False,False,False,69383,4.874580069197221,45.75027082157204
+9052 Avenue de la Sauvegarde,Lyon 9e Arrondissement,11036.78,True,False,False,69389,4.792362724684093,45.78680094503285
+7092 34 Rue Jean François Raclet,Lyon 7e Arrondissement,639.33,True,False,False,69387,4.839302716779105,45.73398976333252
+3105 78 Bv Vivier Merle,Lyon 3e Arrondissement,540.7,False,False,False,69383,4.8584977202934505,45.75612346355084
+9129 30 avenue Joannès Masset,Lyon 9e Arrondissement,1785.95,True,True,False,69389,4.800138385825937,45.76869992154991
+5 Chemin de la Bletta,Vaulx-en-Velin,1896332.0,True,True,True,69256,4.941377316058452,45.79791127004262
+10 Square Pierre Brossolette,Vaulx-en-Velin,1549.0,False,False,False,69256,4.9308380821487985,45.75640933899356
+22 Place Roger Laurent,Vaulx-en-Velin,2090.0,True,False,True,69256,4.919633473459956,45.77117820302463
+52023 Place Carnot,Lyon 2e Arrondissement,26500.22,True,True,True,69382,4.8267413490707725,45.7503620797244
+9346 Rue Félix Mangini,Lyon 9e Arrondissement,853.47,True,True,False,69389,4.816056096156405,45.79076966058262
+51148 Rue lucien Sportisse,Lyon 1er Arrondissement,12087.97,False,False,False,69381,4.828513964957197,45.77106489496395
+5342 Avenue Barthélémy Buyer,Lyon 5e Arrondissement,10411.0,False,False,False,69385,4.802935288542036,45.758644632402735
+5348 Rue Joliot Curie,Lyon 5e Arrondissement,6034.41,False,False,False,69385,4.782792992960796,45.7543181049624
+51045 Place Bellevue,Lyon 1er Arrondissement,3577.47,False,False,False,69381,4.835775267477343,45.77417140173246
+5283 40 Montée Saint Barthélémy,Lyon 5e Arrondissement,38796.29,False,False,False,69385,4.824198998681801,45.76202706017004
+6 Place Villeroy,Neuville-sur-Saône,7.0,False,True,False,69143,4.839697000000001,45.87565904088316
+7 Rue Curie,Neuville-sur-Saône,22.0,False,False,False,69143,4.841106000000001,45.8761780408831
+8,Neuville-sur-Saône,2420000.0,False,False,False,69143,4.851643999999999,45.884795040882
+1 Place de Verdun,Neuville-sur-Saône,16150.0,True,True,True,69143,4.838508000000001,45.878089040882855
+2 Route de Lyon,Neuville-sur-Saône,5000.0,False,False,False,69143,4.8370560000000005,45.87114204088373
+3 Rue de Prandière,Neuville-sur-Saône,4600.0,False,False,False,69143,4.835056999999999,45.8855050408819
+4 Rue de Prandière,Neuville-sur-Saône,1430.0,False,False,False,69143,4.835009,45.885660040881895
+5 8 Rue Jacques,Neuville-sur-Saône,1140.0,False,True,False,69143,4.839735,45.879218040882705
+9093 24 bis Quai Paul Sédallian,Lyon 9e Arrondissement,1355.73,True,False,False,69389,4.822985221784407,45.7941741796029
+55227 5 Rue Cardinal Gerlier,Lyon 5e Arrondissement,837.96,False,False,False,69385,4.814540325646753,45.75867757375167
+3203 Place Gérard Collomb,Lyon 3e Arrondissement,6535.41,True,False,False,69383,4.853705767265226,45.7592288821314
+56002 Autoberge Rive Gauche,Lyon 6e Arrondissement,80660.22,False,False,False,69386,4.840600186279205,45.77249808941275
+9120 18 Rue de la Chapelle,Lyon 9e Arrondissement,12601.99,True,False,True,69389,4.790306105024603,45.76553932335668
+18 Chemin de Halage,Vaulx-en-Velin,153379.0,False,False,False,69256,4.9330553379237365,45.77118235918489
+9313 25 Rue de Montribloud,Lyon 9e Arrondissement,8781.23,True,True,False,69389,4.793287706691287,45.76720256719167
+9345 Rue Félix Mangini,Lyon 9e Arrondissement,5111.75,True,True,False,69389,4.817410044447535,45.79015467394692
+1 Chemin Vieux,Bron,85000.0,False,True,False,69029,4.921666719939911,45.729393946693676
+2 Impasse Callemard,Bron,8300.0,False,False,False,69029,4.9000611653920405,45.73525249629823
+8131 30 Avenue Paul Santy,Lyon 8e Arrondissement,4434.15,True,False,True,69388,4.8711109268604895,45.73321738361418
+2 Angle rue la Chaux - Rue Jean-Baptiste Perret,Saint-Cyr-au-Mont-d'Or,640.0,False,False,False,69191,4.8347721417680765,45.8170220681236
+3364 Rue Viala,Lyon 3e Arrondissement,1021.7,True,False,False,69383,4.885314815794835,45.746514088147265
+19 8 Rue Général Charles Delestraint,Vaulx-en-Velin,8271.0,True,False,False,69256,4.910456350065791,45.78998180329532
+4 Rue des Essarts,Bron,88200.0,False,False,False,69029,4.893785024300241,45.729734829835806
+5 Place du 11 novembre,Bron,2100.0,True,False,False,69029,4.909389378599307,45.731855740904905
+6 Angle Romain Rolland Pierre Brossolette,Bron,3500.0,True,True,False,69029,4.917715196329641,45.74506319562749
+7 Rue Suzanne Melk,Bron,3700.0,True,True,False,69029,4.919904115114316,45.74708493821182
+8 10 Rue Daligand,Bron,1900.0,True,True,False,69029,4.904423149352586,45.75000895098073
+58056 Promenade Léa et Napoléon Bullukian,Lyon 8e Arrondissement,2171.96,False,False,False,69388,4.875224321770703,45.74317868942458
+6055 85 Rue d'Inkermann,Lyon 6e Arrondissement,698.22,True,False,True,69386,4.866127401451075,45.763817919341506
+1 13 Rue Jean et Catherine Reynier,Saint-Cyr-au-Mont-d'Or,7000.0,False,False,False,69191,4.817424426472519,45.815227140840626
+1 8 Avenue Ampère,Saint-Didier-au-Mont-d'Or,23000.0,False,False,True,69194,4.794572140334085,45.831814253255565
+2 1 Allée du 19 mars,Saint-Didier-au-Mont-d'Or,615.0,True,True,False,69194,4.7969179570556095,45.811545633487455
+3130 23 Rue d'Essling,Lyon 3e Arrondissement,355.59,False,False,False,69383,4.857065295799046,45.75544879525641
+1 1 rue d'Italie,Mions,4320.0,False,False,False,69283,4.93834337607229,45.678120115734714
+2 1 rue Mangetemps,Mions,2619.0,False,False,False,69283,4.9493649324965,45.66979508964176
+3 1 route de Toussieu,Mions,,False,False,False,69283,4.969289763120064,45.6609953713375
+4 3 avenue Charles de Gaulle,Mions,7575.0,False,False,False,69283,4.955146207333129,45.66404946619654
+5 1 avenue Jean Jaurès,Mions,1145.0,False,False,False,69283,4.95301522679788,45.66678072897496
+6 1 rue de la République,Mions,1774.0,False,False,False,69283,4.957192758502402,45.66482229045941
+7,Mions,,False,False,False,69283,4.960244943266679,45.674927650388355
+49 Face au 29 rue de Verdun,Caluire-et-Cuire,873.0,True,False,True,69034,4.840702882131028,45.78294030445477
+8197 73 rue Maurice Berliet,Lyon 8e Arrondissement,372.47,False,False,False,69388,4.861634081201603,45.741440785372106
+50 Angle rue Pasteur/rue Professeur Roux,Caluire-et-Cuire,321.0,False,False,False,69034,4.844317468889921,45.792219199848375
+35 Angle avenue Alexander Fleming et avenue Elie Vignal,Caluire-et-Cuire,11353.0,True,False,False,69034,4.848876953611585,45.792145566631575
+36 Angle avenue Elie Vignal et rue de Margnolles,Caluire-et-Cuire,4725.0,True,False,False,69034,4.848429896866409,45.789316092044764
+37 Face au 5 rue Auguste Lumière,Caluire-et-Cuire,490.0,True,False,False,69034,4.838520801160638,45.793522896626875
+19 Place Jean Gouailhardou,Caluire-et-Cuire,2270.0,False,False,False,69034,4.84557710392331,45.799600357150574
+34 Entre le 146 et 250 avenue Jean Monnet,Caluire-et-Cuire,716.0,True,False,False,69034,4.838934165418349,45.790141894767956
+22 Place Laurent Bonnevay,Caluire-et-Cuire,4434.0,False,False,False,69034,4.8469069186372336,45.78820765270902
+38 Square Elie Vignal,Caluire-et-Cuire,672.0,False,False,False,69034,4.837156461150284,45.785239602186714
+39 Angle chemin de Vassieux et chemin de Crépieux,Caluire-et-Cuire,366.0,False,False,False,69034,4.863383262173705,45.801413033363914
+20 Place Gutenberg,Caluire-et-Cuire,7852.0,False,True,True,69034,4.847948390664046,45.794938265026154
+40 Square Général Brosset,Caluire-et-Cuire,1881.0,False,False,False,69034,4.861161146835747,45.7913373821879
+41 49 avenue Général de Gaulle,Caluire-et-Cuire,1676.0,True,True,False,69034,4.855192914705444,45.8080296353151
+2 2 - 61 Quai Clémenceau,Caluire-et-Cuire,25848.0,False,True,True,69034,4.819831812480424,45.78923272629145
+3 Du Pont Raymond Poincaré au Chemin du Ravin,Caluire-et-Cuire,127056.0,False,False,False,69034,4.85980961489997,45.787546944530106
+21 Place Jules Ferry,Caluire-et-Cuire,916.0,True,False,False,69034,4.832422703662448,45.785885017852834
+6 16 rue Abbé Lemire / 86 rue de Margnolles,Caluire-et-Cuire,561.0,False,False,False,69034,4.84694768550025,45.78770285283451
+33 Entre rue des Combattants d'AFN et la voie verte,Caluire-et-Cuire,2845.0,False,False,False,69034,4.850340366684483,45.79849903964065
+7 Place du Docteur Dugoujon (au fond de l 'esplanade Bernard Roger Dalbert),Caluire-et-Cuire,788.0,False,False,False,69034,4.840141624331279,45.79774443526097
+8 Place du Docteur Dugoujon,Caluire-et-Cuire,13543.0,True,True,False,69034,4.84053387931544,45.79796800857007
+10 Allée du Parc de la Jeunesse,Caluire-et-Cuire,50853.0,False,True,True,69034,4.846802722720703,45.79332583676185
+11 Face au 26bis chemin de Crépieux,Caluire-et-Cuire,618.0,False,False,False,69034,4.853904892514625,45.801371746859026
+12 Entre le 34 et le 44 grande rue de Saint Clair,Caluire-et-Cuire,616.0,False,False,False,69034,4.850925381630401,45.78717288447349
+14 107 Grande Rue de Saint Clair,Caluire-et-Cuire,6426.0,False,False,False,69034,4.8561152495736115,45.789710590279356
+15 De la Passerelle de la Paix au pont Raymond Poincaré,Caluire-et-Cuire,52547.0,True,True,False,69034,4.852673725915021,45.78729444606874
+16 Place Bellevue,Caluire-et-Cuire,1375.0,False,False,False,69034,4.848882777912425,45.7859389204035
+17 Place Christophe Colomb,Caluire-et-Cuire,1327.0,False,False,False,69034,4.858833116310834,45.7905943321818
+18 Place de Cuire le Bas,Caluire-et-Cuire,720.0,True,False,True,69034,4.828552776917035,45.79362919105596
+23 Place Louis Braille,Caluire-et-Cuire,1137.0,False,False,False,69034,4.850711251391672,45.79389430684224
+24 Place Valentin Haüy,Caluire-et-Cuire,2725.0,False,False,False,69034,4.851476295744398,45.794203397566534
+25 Place Victor Basch,Caluire-et-Cuire,909.0,True,False,False,69034,4.856945699886637,45.789902173864476
+26 Du Pont Winston Churchill au Parc des Berges,Caluire-et-Cuire,16234.0,False,False,False,69034,4.852383454484332,45.787277919835766
+27 Face à la place Louis Braille,Caluire-et-Cuire,3850.0,False,False,False,69034,4.850217817954412,45.793861661057946
+28 Dans le Parc des Berges,Caluire-et-Cuire,21724.0,False,False,False,69034,4.855273917930159,45.78831684593584
+29 6 - 8 rue du Bois de la Caille,Caluire-et-Cuire,934.0,False,False,False,69034,4.822637139681047,45.787418185101934
+30 25 Avenue du Général de Gaulle,Caluire-et-Cuire,8517.0,True,False,False,69034,4.8527229571659705,45.80634191762532
+31 Allée Turba Choux,Caluire-et-Cuire,13681.0,True,False,False,69034,4.848180447914023,45.794016441285656
+32 Rue Charles Péguy,Caluire-et-Cuire,755.0,False,False,False,69034,4.847626152863787,45.789155489891776
+45 36 rue Pierre Bourgeois,Caluire-et-Cuire,454.0,True,False,False,69034,4.86026424572178,45.81086684808873
+46 14 avenue Louis Dufour,Caluire-et-Cuire,2742.0,True,False,False,69034,4.851588912241336,45.80011912191019
+47 Angle rue Pasteur et rue de Montessuy,Caluire-et-Cuire,1092.0,False,False,False,69034,4.842348107998796,45.79059192501436
+48 Avant le 6 rue Bissardon,Caluire-et-Cuire,316.0,True,False,False,69034,4.839597742632417,45.7813894572948
+51 15 Boulevard Paul Doumer,Caluire-et-Cuire,7770.0,False,False,False,69034,4.835415556926352,45.79486456463898
+52 Voie de la Dombes,Caluire-et-Cuire,101534.0,False,True,True,69034,4.83417729676103,45.78612312666196
+56113 Square Jerome Bererd,Lyon 6e Arrondissement,946.15,False,False,False,69386,4.8528140426176485,45.76371203041495
+6135 Quai Achille Lignon,Lyon 6e Arrondissement,9301.79,False,False,False,69386,4.844666971492518,45.778095351592896
+59270 Rue Antonin Laborde,Lyon 9e Arrondissement,7331.88,True,True,False,69389,4.8132544765894165,45.785822586583095
+13 Avenue Jean Monnet (le long de la voie Verte),Caluire-et-Cuire,1213.0,False,False,False,69034,4.839135100615738,45.78988295513155
+53 22 rue Lucien Maître,Caluire-et-Cuire,741.0,True,True,False,69034,4.825055113149767,45.790011208482035
+7049 30 grande rue de la Guillotière,Lyon 7e Arrondissement,3416.2,True,False,False,69387,4.844518496080229,45.75333059108481
+3425 Rue de l'Abbé Boisard,Lyon 3e Arrondissement,1707.83,False,False,False,69383,4.857358865770187,45.750479815765914
+55060 Place C. Geoffray,Lyon 5e Arrondissement,5673.76,True,True,True,69385,4.7837464408571675,45.749833540850204
+57114 Rue du brigadier Voituret,Lyon 7e Arrondissement,700.94,False,False,False,69387,4.844234677669098,45.74489126215984
+9171 Chemin de Montpellas,Lyon 9e Arrondissement,6358.1,False,False,False,69389,4.827293278603477,45.79966837095372
+56023 Place de l'Europe,Lyon 6e Arrondissement,5564.2,True,True,False,69386,4.849261082734733,45.76481746037845
+57233 Berges Rhône Leclerc,Lyon 7e Arrondissement,47796.09,True,True,False,69387,4.824523348702732,45.7378779075793
+56027 Place Marechal Lyautey,Lyon 6e Arrondissement,20484.06,True,True,True,69386,4.84140322784103,45.76772974765205
+56024 Place Edgard Quinet,Lyon 6e Arrondissement,5021.43,True,True,True,69386,4.844536919746613,45.76594851966533
+57197 Place Stalingrad,Lyon 7e Arrondissement,2918.81,True,True,False,69387,4.852179144954085,45.74983030330007
+9045 39 Rue du Bourbonnais,Lyon 9e Arrondissement,15107.78,True,True,False,69389,4.801896774561154,45.77233198336957
+52169 Quai Rambaud,Lyon 2e Arrondissement,65720.37,False,True,True,69382,4.816249400762171,45.73197399087443
+51002 Boulevard de la Croix Rousse,Lyon 1er Arrondissement,12872.66,True,True,True,69381,4.83312102356209,45.77427673936775
+7260 46 rue Debourg,Lyon 7e Arrondissement,4978.45,True,False,False,69387,4.828617259961901,45.73089501568067
+57205 Place de Montreal,Lyon 7e Arrondissement,3816.24,False,False,False,69387,4.82268956061607,45.72819175508774
+59149 3 rue du Béal,Lyon 9e Arrondissement,661.45,True,False,False,69389,4.79436219193177,45.772424578874144
+53290 Square Jussieu,Lyon 3e Arrondissement,2916.65,False,False,False,69383,4.841405166664567,45.762444431139684
+9161 Boulevard de la Duchère,Lyon 9e Arrondissement,3281.32,True,False,False,69389,4.792387903036044,45.78170551991626
+6016 Place Général Leclerc,Lyon 6e Arrondissement,1028780.83,True,True,True,69386,4.854183562590236,45.77256423053224
+8300 Place Jean Mermoz,Lyon 8e Arrondissement,9036.65,True,True,False,69388,4.884020438129042,45.7276041075659
+9142 Rue Hector Berlioz,Lyon 9e Arrondissement,8828.6,False,True,False,69389,4.821386652869525,45.799061667075726
+9041 18 Rue des Contrebandiers,Lyon 9e Arrondissement,43620.34,False,False,False,69389,4.801724320384052,45.78722844532185
+9159 Avenue Andrei Sakharov,Lyon 9e Arrondissement,4001.63,False,False,False,69389,4.800929467638818,45.787772197294046
+57030 Place Aristide Briand,Lyon 7e Arrondissement,,False,False,False,69387,4.849286577339433,45.75245503677516
+"9156 12 E, Rue du Chateau de la Duchère",Lyon 9e Arrondissement,114995.21,True,True,False,69389,4.793279920927273,45.777515703966785
+59072 Place Jean Monnet,Lyon 9e Arrondissement,,False,False,False,69389,4.807735005976437,45.770321103144695
+56123 Berges Clara Campoamor,Lyon 6e Arrondissement,,False,False,False,69386,4.840794147363229,45.772240441178134
+"9340 18 20, Rue Tissot",Lyon 9e Arrondissement,,False,False,False,69389,4.802159169892239,45.77629403853954
+9158 2 Rue Roquette,Lyon 9e Arrondissement,,False,False,False,69389,4.805530871056118,45.77549867174329
+99016 459 chemin du musée Rochetaillée,nan,,False,False,False,nan,4.835929974750548,45.84203151820532
+53336 33 Rue Moncey,Lyon 3e Arrondissement,,False,False,False,69383,4.84607986321124,45.75737931702868
+53323 Berge Reine Astrid,Lyon 3e Arrondissement,,False,False,False,69383,4.841095747805972,45.76356847700348
+5016 4 montée Cardinal Decourtray,Lyon 5e Arrondissement,,False,False,False,69385,4.822887191857262,45.76018424040758
+8314 Rue Colonel Arnaud Beltrame,Lyon 8e Arrondissement,,False,False,False,69388,4.85351862344988,45.733493250869934
+58161 Rue professeur Calmette,Lyon 8e Arrondissement,,False,False,False,69388,4.876987893336517,45.742473572773456
+55057 Place Bénédict Tessier,Lyon 5e Arrondissement,,False,False,False,69385,4.796830759607087,45.75593578670446
+56126 Berges Amlaia Rodriguès,Lyon 6e Arrondissement,,False,False,False,69386,4.841240450382418,45.76574948444267
+59071 Place Ferber,Lyon 9e Arrondissement,,False,False,False,69389,4.805349172793625,45.77407458678229
+57232 Berges Bertha Von Suttner,Lyon 7e Arrondissement,,False,False,False,69387,4.833131030360194,45.7479981076525
+54003 169 Bd de la Croix Rousse,Lyon 4e Arrondissement,,False,False,False,69384,4.833504770725742,45.7746743054444
+52194 Place Renée Dufourt,Lyon 2e Arrondissement,,False,False,False,69382,4.820192537913503,45.74575617934036
+6190 Cours Lafayette,Lyon 6e Arrondissement,,False,False,False,69386,4.865589079193895,45.76387071373344
+9241 Avenue du Plateau,Lyon 9e Arrondissement,,False,False,False,69389,4.79466764324886,45.78465882383168
