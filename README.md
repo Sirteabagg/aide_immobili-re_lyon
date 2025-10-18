@@ -1,7 +1,9 @@
 # Property Assistance in Lyon
 
-## Persona 
+## Persona
+
 Individuals, more specifically typical families with two to four children. They are looking for stability with a new property and an investment with added value. In terms of requirements, they need:
+
 - city centre or suburbs
 - at least four rooms
 - close to schools
@@ -9,12 +11,14 @@ Individuals, more specifically typical families with two to four children. They 
 - close to transportations
 - with long-term return on investment
 
-## Authors 
+## Authors
+
 - [Ethan](https://github.com/Sirteabagg)
 - [Nicolas](https://github.com/Nicolas-cottez)
 - [Jade](https://github.com/JadePlanECE)
 
-## Link to used DataBases 
+## Link to used DataBases
+
 - [Property values 2024](https://files.data.gouv.fr/geo-dvf/latest/csv/2024/departements/)
 - [Property values 2023](https://files.data.gouv.fr/geo-dvf/latest/csv/2023/departements/)
 - [Property values 2022](https://files.data.gouv.fr/geo-dvf/latest/csv/2022/departements/)
@@ -22,8 +26,10 @@ Individuals, more specifically typical families with two to four children. They 
 - [Transport lines](https://www.data.gouv.fr/datasets/arrets-de-transport-en-france/)
 - [Middle schools](https://www.data.gouv.fr/datasets/secteurs-des-colleges-de-la-metropole-de-lyon/)
 - [High schools](https://www.data.gouv.fr/datasets/lycees-de-la-metropole-de-lyon-et-du-departement-du-rhone/)
+- [Transports](https://www.data.gouv.fr/datasets/points-darret-du-reseau-transports-en-commun-lyonnais/) rename it as "transports.csv" to avoids issues
 
-## Link to unused DataBases 
+## Link to unused DataBases
+
 - [Colleges](https://www.data.gouv.fr/datasets/etablissements-denseignement-superieur-de-la-metropole-de-lyon/)
 - [Crimes (regional & departmental)](https://www.data.gouv.fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/)
 - [Local taxation for individuals](https://www.data.gouv.fr/datasets/fiscalite-locale-des-particuliers-geo/)
